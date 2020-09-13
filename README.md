@@ -1,2 +1,8 @@
 # ShortRan
-this is high level language built on Top of Python 
+this is a shortcuts for command line or shell on the GO
+
+Goals:
+--> Django command
+--> cmd command
+--> python 
+
